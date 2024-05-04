@@ -1,3 +1,6 @@
 # reCap
 Generate a reCaptcha token mostly all versions.
-> Only a review
+
+<b> Only a review
+
+see example tokens in `tokens.txt`
